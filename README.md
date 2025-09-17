@@ -47,8 +47,7 @@ trick helps uncover such embedded archives.
 
 o Tools like binwalk, stegsolve, or zsteg can be used for deeper analysis,
 especially for PNG files or binary dumps.
-
-![image](https://github.com/user-attachments/assets/035e8786-9c28-4fea-ab5c-d8043da8a4fd)
+<img width="927" height="478" alt="Screenshot 2025-09-17 131430" src="https://github.com/user-attachments/assets/178509b0-ef07-471d-b055-01e99a6a3217" />
 
 ![image](https://github.com/user-attachments/assets/1a6903cd-cfa0-4fa7-837f-a34efa0a809c)
 
